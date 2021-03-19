@@ -57,7 +57,7 @@ html5lib==1.0.1
 humanize==0.5.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsondatabase==0.1.7
 kombu==4.1.0
 Logbook==1.1.0
