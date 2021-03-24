@@ -102,7 +102,7 @@ pywin32==221
 PyYAML==3.12
 redis==2.10.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 shellescape==3.4.1
 six==1.11.0
 spider163==2.7.5
