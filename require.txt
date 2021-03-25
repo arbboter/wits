@@ -99,7 +99,7 @@ python-hessian==1.0.2
 pyttsx==1.1
 pytz==2017.3
 pywin32==221
-PyYAML==3.12
+PyYAML==5.4
 redis==2.10.6
 requests==2.18.4
 rsa==3.4.2
