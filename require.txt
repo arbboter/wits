@@ -98,7 +98,7 @@ python-editor==1.0.3
 python-hessian==1.0.2
 pyttsx==1.1
 pytz==2017.3
-pywin32==221
+pywin32==301
 PyYAML==3.12
 redis==2.10.6
 requests==2.18.4
