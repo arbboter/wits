@@ -73,7 +73,7 @@ Naked==0.1.31
 nltk==3.2.5
 numpy==1.13.3
 olefile==0.44
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 passlib==1.7.1
 pbr==4.0.2
 pefile==2017.11.5
