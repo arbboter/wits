@@ -61,7 +61,7 @@ Jinja2==2.9.6
 jsondatabase==0.1.7
 kombu==4.1.0
 Logbook==1.1.0
-lxml==3.7.3
+lxml==4.9.1
 macholib==1.9
 Mako==1.0.7
 MarkupSafe==0.23
