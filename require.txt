@@ -63,7 +63,7 @@ kombu==4.1.0
 Logbook==1.1.0
 lxml==3.7.3
 macholib==1.9
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==0.23
 mathparse==0.1.1
 matplotlib==2.1.1
